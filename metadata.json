@@ -1,0 +1,5 @@
+{
+  "name": "Shadow Hacker: Ethical Hacking Simulator",
+  "description": "An AI-powered cybersecurity training platform that uses story-driven ethical hack simulations to teach security concepts. Engage with AI-hacker 'Shadow Hacker' to find and fix vulnerabilities in a gamified environment.",
+  "requestFramePermissions": []
+}
